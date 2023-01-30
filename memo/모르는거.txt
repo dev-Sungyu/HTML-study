@@ -1,0 +1,6 @@
+list 랑 arraylist 차이
+key : value
+맥구조
+
+
+
